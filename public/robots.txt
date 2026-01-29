@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://rivko.app
+
+# Sitemaps
+Sitemap: https://rivko.app/sitemap.xml
