@@ -10,21 +10,11 @@ export function Footer() {
           {/* Brand */}
           <div className="col-span-2">
             <Link href="/" className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-[var(--primary)] rounded-lg flex items-center justify-center">
-                <svg
-                  className="w-5 h-5 text-white"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"
-                  />
-                </svg>
-              </div>
+              <img
+                src="/logo-blue.png"
+                alt="Rivko"
+                className="w-8 h-8"
+              />
               <span className="font-bold text-xl text-[var(--foreground)]">Rivko</span>
             </Link>
             <p className="text-[var(--text-secondary)] text-sm max-w-xs">
@@ -140,26 +130,36 @@ export function Footer() {
             © {currentYear} Rivko. Tous droits reserves.
           </p>
           <div className="flex items-center gap-4">
-            {/* App Store badge placeholder */}
-            <Link
-              href="#"
-              className="opacity-70 hover:opacity-100 transition-opacity"
-              aria-label="Telecharger sur l'App Store"
-            >
-              <div className="h-10 px-4 bg-black rounded-lg flex items-center justify-center">
-                <span className="text-white text-xs">App Store</span>
-              </div>
-            </Link>
-            {/* Play Store badge placeholder */}
-            <Link
-              href="#"
-              className="opacity-70 hover:opacity-100 transition-opacity"
-              aria-label="Telecharger sur Google Play"
-            >
-              <div className="h-10 px-4 bg-black rounded-lg flex items-center justify-center">
-                <span className="text-white text-xs">Google Play</span>
-              </div>
-            </Link>
+            {/* App Store badge */}
+            <div className="relative">
+              <span className="absolute -top-1.5 -right-1.5 bg-amber-500 text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full z-10">
+                Bientot
+              </span>
+              <Link
+                href="#"
+                className="opacity-60 cursor-not-allowed"
+                aria-label="Telecharger sur l'App Store - Bientot disponible"
+              >
+                <div className="h-10 px-4 bg-black rounded-lg flex items-center justify-center">
+                  <span className="text-white text-xs">App Store</span>
+                </div>
+              </Link>
+            </div>
+            {/* Play Store badge */}
+            <div className="relative">
+              <span className="absolute -top-1.5 -right-1.5 bg-amber-500 text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full z-10">
+                Bientot
+              </span>
+              <Link
+                href="#"
+                className="opacity-60 cursor-not-allowed"
+                aria-label="Telecharger sur Google Play - Bientot disponible"
+              >
+                <div className="h-10 px-4 bg-black rounded-lg flex items-center justify-center">
+                  <span className="text-white text-xs">Google Play</span>
+                </div>
+              </Link>
+            </div>
           </div>
         </div>
       </div>

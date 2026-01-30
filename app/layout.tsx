@@ -4,7 +4,7 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rivko.app"),
+  metadataBase: new URL("https://www.rivko.app"),
   title: {
     default: "Rivko - Gerez vos abonnements, evitez les mauvaises surprises",
     template: "%s | Rivko",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "fr_FR",
-    url: "https://rivko.app",
+    url: "https://www.rivko.app",
     siteName: "Rivko",
     title: "Rivko - Gerez vos abonnements, evitez les mauvaises surprises",
     description:
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     images: ["/og-image.png"],
   },
   alternates: {
-    canonical: "https://rivko.app",
+    canonical: "https://www.rivko.app",
   },
   verification: {
     google: "votre-code-verification-google",

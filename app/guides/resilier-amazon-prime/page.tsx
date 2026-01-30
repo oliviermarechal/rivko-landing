@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "arreter amazon prime",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-amazon-prime",
+    canonical: "https://www.rivko.app/guides/resilier-amazon-prime",
   },
 };
 

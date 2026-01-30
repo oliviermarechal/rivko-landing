@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Politique de confidentialite d'Rivko. Decouvrez comment nous protegeons vos donnees personnelles.",
   alternates: {
-    canonical: "https://rivko.app/confidentialite",
+    canonical: "https://www.rivko.app/confidentialite",
   },
 };
 

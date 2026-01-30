@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "depenses abonnements france",
   ],
   alternates: {
-    canonical: "https://rivko.app/blog/combien-abonnements-francais",
+    canonical: "https://www.rivko.app/blog/combien-abonnements-francais",
   },
 };
 

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "arreter spotify premium",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-spotify",
+    canonical: "https://www.rivko.app/guides/resilier-spotify",
   },
 };
 

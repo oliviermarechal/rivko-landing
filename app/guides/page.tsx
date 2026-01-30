@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Guides pratiques pour resilier Netflix, Spotify, Amazon Prime, Disney+, Canal+, salle de sport et tous vos abonnements. Procedures pas a pas.",
   alternates: {
-    canonical: "https://rivko.app/guides",
+    canonical: "https://www.rivko.app/guides",
   },
 };
 

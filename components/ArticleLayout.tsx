@@ -79,7 +79,7 @@ export function ArticleLayout({
         <>
           <ReportErrorButton
             pageTitle={title}
-            pageUrl={`https://rivko.app/guides/${guideSlug}`}
+            pageUrl={`https://www.rivko.app/guides/${guideSlug}`}
           />
           <div className="mt-6 p-4 bg-[var(--surface-secondary)] rounded-xl border border-[var(--border)]">
             <p className="text-xs text-[var(--text-tertiary)]">

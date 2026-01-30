@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Contactez l'equipe Rivko. Une question, une suggestion, un probleme ? Nous sommes la pour vous aider.",
   alternates: {
-    canonical: "https://rivko.app/contact",
+    canonical: "https://www.rivko.app/contact",
   },
 };
 

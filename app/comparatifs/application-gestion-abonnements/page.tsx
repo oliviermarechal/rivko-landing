@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     "application suivre abonnements",
   ],
   alternates: {
-    canonical: "https://rivko.app/comparatifs/application-gestion-abonnements",
+    canonical: "https://www.rivko.app/comparatifs/application-gestion-abonnements",
   },
 };
 

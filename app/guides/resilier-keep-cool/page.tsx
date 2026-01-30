@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "keep cool sans engagement",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-keep-cool",
+    canonical: "https://www.rivko.app/guides/resilier-keep-cool",
   },
   openGraph: {
     title: "Resilier Keep Cool : guide complet 2025",

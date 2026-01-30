@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "tracker periode essai",
   ],
   alternates: {
-    canonical: "https://rivko.app/blog/periode-essai-oubliee",
+    canonical: "https://www.rivko.app/blog/periode-essai-oubliee",
   },
 };
 

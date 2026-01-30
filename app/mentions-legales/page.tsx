@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Mentions legales",
   description: "Mentions legales du site Rivko et de l'application mobile.",
   alternates: {
-    canonical: "https://rivko.app/mentions-legales",
+    canonical: "https://www.rivko.app/mentions-legales",
   },
 };
 

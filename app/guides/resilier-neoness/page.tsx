@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "neoness sans engagement",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-neoness",
+    canonical: "https://www.rivko.app/guides/resilier-neoness",
   },
   openGraph: {
     title: "Resilier Neoness : guide complet 2025",

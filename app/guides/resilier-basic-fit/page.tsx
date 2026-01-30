@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     "arreter basic fit",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-basic-fit",
+    canonical: "https://www.rivko.app/guides/resilier-basic-fit",
   },
   openGraph: {
     title: "Resilier Basic-Fit : guide complet 2025",

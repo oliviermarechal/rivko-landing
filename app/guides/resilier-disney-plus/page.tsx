@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "arreter disney plus",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-disney-plus",
+    canonical: "https://www.rivko.app/guides/resilier-disney-plus",
   },
 };
 

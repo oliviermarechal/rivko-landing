@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "optimiser depenses abonnements",
   ],
   alternates: {
-    canonical: "https://rivko.app/blog/trop-abonnements",
+    canonical: "https://www.rivko.app/blog/trop-abonnements",
   },
 };
 

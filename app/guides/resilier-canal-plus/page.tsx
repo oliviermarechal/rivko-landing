@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "lettre resiliation canal",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-canal-plus",
+    canonical: "https://www.rivko.app/guides/resilier-canal-plus",
   },
 };
 

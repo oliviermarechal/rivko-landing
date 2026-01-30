@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Conditions generales d'utilisation d'Rivko. Regles d'utilisation de l'application.",
   alternates: {
-    canonical: "https://rivko.app/conditions-utilisation",
+    canonical: "https://www.rivko.app/conditions-utilisation",
   },
 };
 

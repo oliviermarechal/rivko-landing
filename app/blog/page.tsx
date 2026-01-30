@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Conseils, astuces et guides pour mieux gerer vos abonnements, eviter les pieges et economiser de l'argent.",
   alternates: {
-    canonical: "https://rivko.app/blog",
+    canonical: "https://www.rivko.app/blog",
   },
 };
 

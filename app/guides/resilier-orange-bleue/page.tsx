@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "l'orange bleue resiliation",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-orange-bleue",
+    canonical: "https://www.rivko.app/guides/resilier-orange-bleue",
   },
   openGraph: {
     title: "Resilier L'Orange Bleue : guide complet 2025",

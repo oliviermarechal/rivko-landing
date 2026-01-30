@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     "resilier keep cool",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-salle-sport",
+    canonical: "https://www.rivko.app/guides/resilier-salle-sport",
   },
   openGraph: {
     title: "Resilier sa salle de sport : guide complet 2025",

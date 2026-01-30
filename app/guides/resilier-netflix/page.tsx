@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     "netflix annulation",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-netflix",
+    canonical: "https://www.rivko.app/guides/resilier-netflix",
   },
 };
 

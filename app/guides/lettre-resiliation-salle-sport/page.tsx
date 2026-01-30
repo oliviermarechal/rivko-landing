@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "loi chatel salle de sport lettre",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/lettre-resiliation-salle-sport",
+    canonical: "https://www.rivko.app/guides/lettre-resiliation-salle-sport",
   },
   openGraph: {
     title: "Lettre de resiliation salle de sport : modeles gratuits 2025",

@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://rivko.app
+Host: https://www.rivko.app
 
 # Sitemaps
-Sitemap: https://rivko.app/sitemap.xml
+Sitemap: https://www.rivko.app/sitemap.xml

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     "resilier abonnement trop tard",
   ],
   alternates: {
-    canonical: "https://rivko.app/blog/oublier-resilier-abonnement",
+    canonical: "https://www.rivko.app/blog/oublier-resilier-abonnement",
   },
   openGraph: {
     title: "J'ai oublie de resilier mon abonnement : que faire ?",
@@ -219,7 +219,7 @@ export default function ArticlePage() {
               name: "Rivko",
               logo: {
                 "@type": "ImageObject",
-                url: "https://rivko.app/logo.png",
+                url: "https://www.rivko.app/logo-blue.png",
               },
             },
           }),

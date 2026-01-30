@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "fitness park sans engagement",
   ],
   alternates: {
-    canonical: "https://rivko.app/guides/resilier-fitness-park",
+    canonical: "https://www.rivko.app/guides/resilier-fitness-park",
   },
   openGraph: {
     title: "Resilier Fitness Park : guide complet 2025",
