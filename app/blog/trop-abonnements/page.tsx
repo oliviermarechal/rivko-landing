@@ -53,7 +53,6 @@ export default function ArticlePage() {
       </ul>
 
       <h2>Etape 1 : Faire l&apos;inventaire complet</h2>
-
       <p>
         Avant de pouvoir optimiser, il faut savoir exactement ce que vous payez.
         Voici comment proceder :
